@@ -1,2 +1,2 @@
-1.1|12345 kb|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_1.1.jar|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_dat-1.0.zip
-1.0|12345 kb|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_1.0.jar|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_dat-1.0.zip
+1.1|5.234 kb|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_1.1.jar|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_dat-1.0.zip
+1.0|5.232 kb|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_1.0.jar|https://github.com/Trenied-12/Ethans-Adventure/raw/main/Ethans_Adventure_dat-1.0.zip
